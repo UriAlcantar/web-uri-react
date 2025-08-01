@@ -31,7 +31,7 @@ const translations = {
     'nav.aboutPage': 'Esta página',
     
     // Home page
-    'home.title': 'Uri Alcántar',
+    'home.title': 'Uri Alcantar',
     'home.subtitle': 'Frontend Developer',
     'home.description': 'Desarrollador frontend apasionado por crear experiencias digitales excepcionales. Especializado en React, TypeScript y tecnologías modernas del web.',
     'home.cta.work': 'Conoce Mi Trabajo',
@@ -41,7 +41,7 @@ const translations = {
     'home.stats.satisfaction': 'Satisfacción del Cliente',
     
     // About page
-    'about.title': 'Uri Alcántar',
+    'about.title': 'Uri Alcantar',
     'about.subtitle': 'Desarrollador Full Stack apasionado por crear experiencias digitales excepcionales',
     'about.story.title': 'Mi Historia',
     'about.story.p1': 'Soy un desarrollador full stack con más de 6 años de experiencia en el desarrollo web. Me apasiona crear aplicaciones que no solo funcionen perfectamente, sino que también proporcionen una experiencia de usuario excepcional.',
@@ -92,7 +92,7 @@ const translations = {
     'nav.aboutPage': 'About This Page',
     
     // Home page
-    'home.title': 'Uri Alcántar',
+    'home.title': 'Uri Alcantar',
     'home.subtitle': 'Frontend Developer',
     'home.description': 'Frontend developer passionate about creating exceptional digital experiences. Specialized in React, TypeScript and modern web technologies.',
     'home.cta.work': 'See My Work',
@@ -102,7 +102,7 @@ const translations = {
     'home.stats.satisfaction': 'Client Satisfaction',
     
     // About page
-    'about.title': 'Uri Alcántar',
+    'about.title': 'Uri Alcantar',
     'about.subtitle': 'Full Stack Developer passionate about creating exceptional digital experiences',
     'about.story.title': 'My Story',
     'about.story.p1': 'I am a full stack developer with more than 6 years of experience in web development. I am passionate about creating applications that not only work perfectly, but also provide an exceptional user experience.',

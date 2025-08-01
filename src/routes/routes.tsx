@@ -61,12 +61,12 @@ export const navigationItems = [
 // Route metadata for SEO and page titles
 export const routeMetadata = {
   '/': {
-    title: 'Uri Alcántar - Frontend Developer',
+    title: 'Uri Alcantar - Frontend Developer',
     description: 'Desarrollador frontend apasionado por crear experiencias digitales excepcionales. Especializado en React, TypeScript y tecnologías modernas del web.',
   },
   '/about': {
-    title: 'Acerca de Uri Alcántar - Desarrollador Full Stack',
-    description: 'Conoce a Uri Alcántar, desarrollador full stack apasionado por crear experiencias digitales excepcionales. Experiencia en React, TypeScript, Node.js y más.',
+    title: 'Acerca de Uri Alcantar - Desarrollador Full Stack',
+    description: 'Soy Uri Alcantar, desarrollador full stack apasionado por crear experiencias digitales excepcionales. Experiencia en React, Angular,TypeScript, Node.js y más.',
   },
   '/services': {
     title: 'Servicios - Mi Aplicación React',

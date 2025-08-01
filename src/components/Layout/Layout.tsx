@@ -19,7 +19,7 @@ const Layout: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
       <Header 
-        title="Uri Alcántar" 
+        title="Uri Alcantar" 
         onMenuClick={handleMenuClick}
         currentPath={location.pathname}
         isMobileMenuOpen={isMobileMenuOpen}
