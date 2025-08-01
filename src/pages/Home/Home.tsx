@@ -18,7 +18,7 @@ const Home: React.FC = () => {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 min-h-screen flex items-center justify-center">
+      <div className="relative z-10 min-h-[90vh] flex items-center justify-center">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-white">
           {/* Profile Image */}
           <div className="mb-8">
@@ -117,7 +117,7 @@ const Home: React.FC = () => {
               <div className="text-gray-200">{t('home.stats.experience')}</div>
             </div>
             <div className="text-white">
-              <div className="text-3xl font-bold mb-2">50+</div>
+              <div className="text-3xl font-bold mb-2">20+</div>
               <div className="text-gray-200">{t('home.stats.projects')}</div>
             </div>
             <div className="text-white">
