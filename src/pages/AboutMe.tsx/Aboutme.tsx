@@ -124,13 +124,19 @@ const Aboutme: React.FC = () => {
                 <div className="flex items-center justify-between">
                   <span className="text-gray-600 dark:text-gray-300">React</span>
                                       <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                      <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '90%' }}></div>
+                    </div>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-gray-600 dark:text-gray-300">Angular</span>
+                                      <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
                       <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '95%' }}></div>
                     </div>
                 </div>
                 <div className="flex items-center justify-between">
                   <span className="text-gray-600 dark:text-gray-300">TypeScript</span>
                                       <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
-                      <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '90%' }}></div>
+                      <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '95%' }}></div>
                     </div>
                 </div>
                 <div className="flex items-center justify-between">
@@ -139,6 +145,19 @@ const Aboutme: React.FC = () => {
                       <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '85%' }}></div>
                     </div>
                 </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-gray-600 dark:text-gray-300">React Native</span>
+                                      <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                      <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '80%' }}></div>
+                    </div>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-gray-600 dark:text-gray-300">ASP</span>
+                                      <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                      <div className="bg-blue-600 dark:bg-blue-400 h-2 rounded-full" style={{ width: '80%' }}></div>
+                    </div>
+                </div>
+
               </div>
             </div>
 
@@ -152,15 +171,27 @@ const Aboutme: React.FC = () => {
                               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Backend</h3>
               <div className="space-y-2">
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-600 dark:text-gray-300">Node.js</span>
+                  <span className="text-gray-600 dark:text-gray-300">Express</span>
                   <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
                     <div className="bg-green-600 dark:bg-green-400 h-2 rounded-full" style={{ width: '88%' }}></div>
                   </div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-600 dark:text-gray-300">Python</span>
+                  <span className="text-gray-600 dark:text-gray-300">Nest.js</span>
                   <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
-                    <div className="bg-green-600 dark:bg-green-400 h-2 rounded-full" style={{ width: '82%' }}></div>
+                    <div className="bg-green-600 dark:bg-green-400 h-2 rounded-full" style={{ width: '81%' }}></div>
+                  </div>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-gray-600 dark:text-gray-300">Node.js</span>
+                  <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                    <div className="bg-green-600 dark:bg-green-400 h-2 rounded-full" style={{ width: '89%' }}></div>
+                  </div>
+                </div>
+                <div className="flex items-center justify-between">
+                  <span className="text-gray-600 dark:text-gray-300">MySQL</span>
+                  <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                    <div className="bg-green-600 dark:bg-green-400 h-2 rounded-full" style={{ width: '85%' }}></div>
                   </div>
                 </div>
                 <div className="flex items-center justify-between">
@@ -183,21 +214,21 @@ const Aboutme: React.FC = () => {
                               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">DevOps</h3>
               <div className="space-y-2">
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-600 dark:text-gray-300">Docker</span>
+                  <span className="text-gray-600 dark:text-gray-300">AWS</span>
                   <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
                     <div className="bg-purple-600 dark:bg-purple-400 h-2 rounded-full" style={{ width: '80%' }}></div>
                   </div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-600 dark:text-gray-300">AWS</span>
-                  <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
-                    <div className="bg-purple-600 dark:bg-purple-400 h-2 rounded-full" style={{ width: '75%' }}></div>
-                  </div>
+                  <span className="text-gray-600 dark:text-gray-300">GitHub Actions</span>
+                    <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
+                      <div className="bg-purple-600 dark:bg-purple-400 h-2 rounded-full" style={{ width: '75%' }}></div>
+                    </div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-gray-600 dark:text-gray-300">CI/CD</span>
+                  <span className="text-gray-600 dark:text-gray-300">VERCEL</span>
                   <div className="w-24 bg-gray-200 dark:bg-gray-600 rounded-full h-2">
-                    <div className="bg-purple-600 dark:bg-purple-400 h-2 rounded-full" style={{ width: '85%' }}></div>
+                    <div className="bg-purple-600 dark:bg-purple-400 h-2 rounded-full" style={{ width: '80%' }}></div>
                   </div>
                 </div>
               </div>
