@@ -12,7 +12,7 @@ const ThemeToggle: React.FC = () => {
     >
       <span
         className={`inline-block h-8 w-8 transform rounded-full bg-white shadow-lg transition-transform duration-300 ${
-          isDark ? 'translate-x-10' : 'translate-x-1'
+          isDark ? 'translate-x-11' : 'translate-x-1'
         }`}
       />
       <div className="absolute inset-0 flex items-center justify-between px-2">
