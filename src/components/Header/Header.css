@@ -1,0 +1,8 @@
+/* Estilos específicos del componente Header si son necesarios */
+.header-mobile-menu {
+  @apply md:hidden;
+}
+
+.header-mobile-menu.open {
+  @apply block;
+} 
